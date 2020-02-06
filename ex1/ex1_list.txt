@@ -16,5 +16,5 @@
 16.py	# 関数
 17.py	# 関数2
 18.py	# sys library
-19.py	# 
+19.py	# 文字表示
 20.py	# 
