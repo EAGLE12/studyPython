@@ -17,14 +17,14 @@
 17.py	# 関数2
 18.py	# sys library
 19.py	# 文字表示
-20.py	#
-21.py	#
-22.py	#
-23.py	#	
-24.py	#
-25.py	#
-26.py	#	
-27.py	#
-28.py	#
-29.py	#	
-30.py	#
+20.py	# 入力かつ制御分
+21.py	# 制御
+22.py	# prime number
+23.py	# 制御	
+24.py	# 制御
+25.py	# item in 1
+26.py	# item in 2	
+27.py	# dictionaly
+28.py	# 
+29.py	# 	
+30.py	# 
