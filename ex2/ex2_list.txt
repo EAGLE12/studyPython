@@ -1,0 +1,12 @@
+01.py	# data描画1
+02.py	# data描画2
+03.py	# data描画3
+04.py	# sin描画, cos描画
+05.py	# data描画4_複数のグラフを描画
+06.py	# data描画5_グラフを左右に並べる
+07.py	# data描画6_グラフを左右に並べる
+08.py	# 配列1
+09.py	# 配列2
+10.py	# 配列3
+11.py	# ベクトル
+12.py	# transrate
